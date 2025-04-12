@@ -1,0 +1,12 @@
+[
+  {
+    "title": "test image",
+    "type": "image",
+    "source": "https://raw.githubusercontent.com/mapsovich/SoundBar/blob/main/assets/testimage.png"
+  },
+  {
+    "title": "test audio",
+    "type": "audio",
+    "source": "https://raw.githubusercontent.com/mapsovich/SoundBar/blob/main/assets/testaudio.png"
+  }
+]
